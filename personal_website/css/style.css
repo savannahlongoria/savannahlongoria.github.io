@@ -1,0 +1,22 @@
+body {
+  background-color: #F9E79F;
+  height: 100%;
+  font-family: 'tradegothiclt-bold', sans-serif;
+}
+
+h1 {
+  font-size: 5em;
+  color: white;
+  text-transform: uppercase;
+}
+
+span {
+  border-right: .01em solid;
+  animation: caret 1s steps(1) infinite;
+}
+
+@keyframes caret {
+  20% {
+    border-color: transparent;
+  }
+}
