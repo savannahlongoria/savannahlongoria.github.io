@@ -162,6 +162,10 @@ a {
 a:hover {
   color: #0FA0CE; }
 
+left: hover logoLeft {
+        opacity: 0.4;
+    }
+
 
 /* Buttons
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
