@@ -219,7 +219,7 @@ p {
   text-transform: capitalize;
 }
 
-.divider {
+.divider-53 {
   display: block;
   width: 80px;
   height: 2px;
@@ -228,7 +228,7 @@ p {
   color: #000;
 }
 
-.divider.grey {
+.divider-53.grey {
   position: relative;
   top: 35px;
   margin-top: 0px;
@@ -514,7 +514,7 @@ p {
   margin-bottom: 42px;
 }
 
-.screenshot {
+.screenshot-62 {
   position: relative;
   top: 13px;
   margin-bottom: 43px;
@@ -576,7 +576,7 @@ p {
   width: 500%;
 }
 
-.container-4 {
+.container-1998 {
   margin-top: -245px;
 }
 
@@ -848,7 +848,7 @@ p {
   text-transform: none;
 }
 
-.text-block-10 {
+._14 {
   position: relative;
   top: -20px;
   display: inline-block;
@@ -856,12 +856,12 @@ p {
   text-align: center;
 }
 
-.bold-text-5 {
+.bold-text-15 {
   position: relative;
   top: 46px;
 }
 
-.bold-text-6 {
+.bold-text-97 {
   position: relative;
   top: 44px;
 }
@@ -872,6 +872,75 @@ p {
 
 .heading-13 {
   font-weight: 400;
+}
+
+.container-1998-copy {
+  margin-top: -245px;
+}
+
+.ijdedd {
+  position: relative;
+  top: 13px;
+  margin-bottom: 43px;
+}
+
+.eecs-paragraph {
+  border-style: solid;
+  border-color: transparent;
+  background-color: transparent;
+  opacity: 1;
+  color: #000;
+  font-size: 14px;
+}
+
+.ucsd-container-plz-work {
+  margin-top: -245px;
+}
+
+.divider-53-copy {
+  display: block;
+  width: 80px;
+  height: 2px;
+  margin: 28px auto;
+  background-color: #fff;
+  color: #000;
+}
+
+.divider-53-copy.grey {
+  position: relative;
+  top: 35px;
+  margin-top: 0px;
+  margin-bottom: 52px;
+  background-color: rgba(0, 0, 0, 0.09);
+}
+
+.geog-paragraph-last {
+  position: relative;
+  top: 10px;
+  font-size: 13px;
+  text-align: center;
+}
+
+.kjfjeksfnjkesfhe {
+  margin-top: -245px;
+}
+
+.ddscppicsheadline {
+  position: relative;
+  top: 44px;
+}
+
+.geogprojectlink {
+  -webkit-transition: opacity 200ms ease;
+  transition: opacity 200ms ease;
+  color: #670396;
+}
+
+.ucsdgithubicon {
+  margin-top: -7px;
+  padding-top: 3px;
+  -webkit-filter: grayscale(100%);
+  filter: grayscale(100%);
 }
 
 @media (max-width: 991px) {
@@ -888,7 +957,7 @@ p {
     font-size: 38px;
     line-height: 44px;
   }
-  .divider.grey {
+  .divider-53.grey {
     position: relative;
     top: 30px;
     margin-top: 11px;
@@ -917,13 +986,19 @@ p {
   .image-4 {
     margin-top: -108px;
   }
-  .bold-text-5 {
+  .bold-text-15 {
     position: relative;
     top: 41px;
   }
   .icon {
     position: relative;
     width: 14px;
+  }
+  .divider-53-copy.grey {
+    position: relative;
+    top: 30px;
+    margin-top: 11px;
+    padding-top: 2px;
   }
 }
 
@@ -948,9 +1023,9 @@ p {
   .logo-img {
     width: 50px;
   }
-  .divider.grey {
+  .divider-53.grey {
     position: relative;
-    top: 10px;
+    top: 47px;
     margin-top: 0px;
     margin-bottom: 0px;
   }
@@ -1007,7 +1082,8 @@ p {
   .grow-row {
     margin-bottom: 0px;
   }
-  .screenshot {
+  .screenshot-62 {
+    top: 20px;
     width: 90%;
     padding-top: 17px;
   }
@@ -1019,8 +1095,9 @@ p {
     overflow: auto;
     margin-top: -99px;
   }
-  .container-4 {
-    margin-top: -145px;
+  .container-1998 {
+    top: -62px;
+    margin-top: -228px;
   }
   .paragraph-2 {
     margin-top: 15px;
@@ -1035,7 +1112,7 @@ p {
     margin-top: 32px;
   }
   .image-3 {
-    margin-top: 120px;
+    margin-top: 4px;
   }
   .image-4 {
     margin-top: -82px;
@@ -1058,15 +1135,60 @@ p {
   .image-11 {
     margin-top: -369px;
   }
-  .text-block-10 {
+  ._14 {
+    top: 7px;
     width: auto;
   }
-  .bold-text-5 {
+  .bold-text-15 {
     position: relative;
     top: 135px;
   }
-  .bold-text-6 {
-    top: 24px;
+  .bold-text-97 {
+    top: 8px;
+  }
+  .container-1998-copy {
+    top: -62px;
+    margin-top: -115px;
+  }
+  .ijdedd {
+    top: 20px;
+    width: 90%;
+    padding-top: 17px;
+  }
+  .ucsd-container-plz-work {
+    top: -62px;
+    margin-top: -228px;
+  }
+  .html-embed-2-copy {
+    margin-top: 21px;
+  }
+  .divider-53-copy.grey {
+    position: relative;
+    top: 47px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+  .geog-paragraph-last {
+    top: 49px;
+    margin-top: 32px;
+  }
+  .asasssad {
+    position: relative;
+    top: 74px;
+  }
+  .bold-text-99 {
+    position: relative;
+    top: 77px;
+  }
+  .kjfjeksfnjkesfhe {
+    top: -62px;
+    margin-top: -228px;
+  }
+  .ddscppicsheadline {
+    top: 8px;
+  }
+  .ucsdgithubicon {
+    margin-top: 4px;
   }
 }
 
@@ -1098,9 +1220,10 @@ p {
     font-size: 34px;
     line-height: 38px;
   }
-  .divider.grey {
+  .divider-53.grey {
     position: relative;
-    top: 35px;
+    top: 26px;
+    padding-top: 0px;
   }
   .main-subtitle-eecs {
     position: -webkit-sticky;
@@ -1119,11 +1242,12 @@ p {
     padding-left: 5%;
   }
   .grow-row {
-    top: -54px;
+    top: -35px;
   }
-  .screenshot {
-    top: 58px;
-    margin-top: -33px;
+  .screenshot-62 {
+    top: 45px;
+    margin-top: -14px;
+    padding-top: 29px;
   }
   .heading {
     margin-top: 127px;
@@ -1137,21 +1261,23 @@ p {
     width: auto;
     max-width: 100%;
   }
-  .container-4 {
+  .container-1998 {
     position: relative;
-    top: 48px;
-    margin-top: -168px;
+    top: 37px;
+    margin-top: -254px;
   }
   .paragraph {
+    position: relative;
+    top: -12px;
     text-align: center;
   }
   .paragraph-2 {
     position: relative;
-    top: 7px;
+    top: 4px;
   }
   .paragraph-3 {
     position: relative;
-    top: -15px;
+    top: -13px;
   }
   .paragraph-4 {
     position: relative;
@@ -1160,7 +1286,7 @@ p {
   }
   .link-2 {
     position: relative;
-    top: 52px;
+    top: 38px;
   }
   .heading-3 {
     position: relative;
@@ -1168,6 +1294,10 @@ p {
   }
   .text-block-2 {
     margin-top: 24px;
+  }
+  .bold-text-2 {
+    position: relative;
+    top: 69px;
   }
   .image-3 {
     margin-top: 25px;
@@ -1202,16 +1332,16 @@ p {
   .heading-12 {
     margin-top: 16px;
   }
-  .text-block-10 {
-    top: 29px;
+  ._14 {
+    top: 26px;
     width: auto;
   }
-  .bold-text-5 {
+  .bold-text-15 {
     position: relative;
-    top: 46px;
+    top: 154px;
   }
-  .bold-text-6 {
-    top: 50px;
+  .bold-text-97 {
+    top: 150px;
   }
   .image-12 {
     position: relative;
@@ -1231,7 +1361,7 @@ p {
   }
   .bold-text-9 {
     position: relative;
-    top: -19px;
+    top: -20px;
   }
   .div-block-4 {
     position: relative;
@@ -1261,8 +1391,93 @@ p {
   }
   .link-4 {
     position: relative;
-    top: -45px;
+    top: -2px;
     bottom: 25px;
+  }
+  .bold-text-13 {
+    position: relative;
+    top: -9px;
+  }
+  .container-1998-copy {
+    position: relative;
+    top: 14px;
+    margin-top: -143px;
+    padding-top: 0px;
+  }
+  .ijdedd {
+    top: 45px;
+    margin-top: -14px;
+    padding-top: 29px;
+  }
+  .eecs-paragraph {
+    position: relative;
+    top: 44px;
+  }
+  .ucsd-container-plz-work {
+    position: relative;
+    top: 123px;
+    margin-top: -263px;
+  }
+  .html-embed-2-copy {
+    position: relative;
+    top: -65px;
+    margin-top: 50px;
+    padding-top: 0px;
+  }
+  .divider-53-copy.grey {
+    position: relative;
+    top: -8px;
+    padding-top: 0px;
+  }
+  .bold-text-98 {
+    position: relative;
+    top: 8px;
+  }
+  .geog-paragraph-last {
+    top: 77px;
+    margin-top: 24px;
+  }
+  .text-block-9 {
+    position: relative;
+  }
+  .asasssad {
+    position: relative;
+    top: 95px;
+  }
+  .bold-text-99 {
+    position: relative;
+    top: 108px;
+  }
+  .bold-text-100 {
+    position: relative;
+    top: -11px;
+  }
+  .container-1999 {
+    position: relative;
+    top: 18px;
+  }
+  .cs-text {
+    position: relative;
+    top: 17px;
+  }
+  .cartography-col {
+    top: -21px;
+  }
+  .kjfjeksfnjkesfhe {
+    position: relative;
+    top: 48px;
+    margin-top: -253px;
+  }
+  .ddscppicsheadline {
+    top: 73px;
+  }
+  .geogprojectlink {
+    position: relative;
+    top: 53px;
+  }
+  .ucsdgithubicon {
+    margin-top: 25px;
+    padding-top: 28px;
   }
 }
 
